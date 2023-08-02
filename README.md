@@ -1,6 +1,6 @@
 - prerequisits:
     - postgresql installed with following settings
-    - <user>/<password>@<host>/<databse_name>: postgres:56987@localhost/fastapi
+    - \<user\>/\<password\>@\<host\>/\<databse_name\>: postgres:56987@localhost/fastapi
     - pip install -r requirements.txt
 
 - how to run
