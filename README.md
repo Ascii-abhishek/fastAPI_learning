@@ -4,6 +4,6 @@
     - pip install -r requirements.txt
 
 - how to run
-    - cd this_directory_with_main.py_file
+    - cd fastAPI_learning/app
     - uvicorm main:app
     - open: http://127.0.0.1:8000/docs
